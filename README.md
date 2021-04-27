@@ -2,7 +2,7 @@
 
 - My name is Vadim Savenkov and I am a novice data scientist with ML certification from Alberta Machine Intelligence Institute and Software Development certificate from  the Southern Alberta Institute of Technology (SAIT).
 - 👀 I’m interested building my career in predictive analytics
-- 🌱 I keep stregthening my skills now in Python, SQL and Tableau
+- 🌱 I keep stregthening my skills in Python, SQL and Tableau
 - 💞️ I’m currently looking for jobs in Data Science, Machine Learning, Data Analytics, and Project Management.
 - 📫 How to reach me https://www.linkedin.com/in/vadimsavenkov/ 
 
