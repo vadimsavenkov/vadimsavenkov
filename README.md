@@ -8,7 +8,7 @@
 
 - 💞️ I’m currently looking for jobs in Data Science, Machine Learning, Data Analytics, and Project Management.
 
-If you are looking for someone who values inegrity, team work and lifelong learning, I am the right one! I love challenges, intrigued by mistakes, enjoy effort, and keep on learning. I bring to the table GRIT - the power passion and perseverance to convert data quantity into data quality!  
+If you are looking for someone who values inegrity, team work and lifelong learning, I am the right one! I love challenges, intrigued by mistakes, enjoy effort, and keep on learning. I bring GRIT to the table - the power passion and perseverance to convert data quantity into data quality!  
 
 - 📫 How to reach me https://www.linkedin.com/in/vadimsavenkov/ 
 
