@@ -2,7 +2,7 @@
 
 - My name is Vadim Savenkov and I am a novice data scientist with ML certification from Alberta Machine Intelligence Institute and Software Development certificate from  the Southern Alberta Institute of Technology (SAIT).
 
-- 👀 I’m interested building my career in predictive analytics transiioning from energy sector. I have a wealth of transferable skills in data analysis, modeling and forecasting and outstanding analytical background. 
+- 👀 I’m interested building my career in predictive analytics. I have a wealth of skills in data analysis, modeling and forecasting and outstanding analytical background. 
 
 - 🌱 I keep stregthening my skills in Python, SQL and Tableau every day through taking courses and building portfolio of my personal projects.
 
