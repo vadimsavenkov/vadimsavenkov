@@ -4,9 +4,9 @@
 
 - 👀 I’m interested building my career in predictive analytics. I have a wealth of skills in data analysis and reporting that require attention to details. 
 
-- 🌱 I keep stregthening my skills in Python, SQL and Tableau every day through taking courses and building portfolio of my personal projects.
+- 🌱 I keep stregthening my skills in Python every day through taking courses and building portfolio of my personal projects.
 
-- 💞️ I’m currently looking for jobs as Data Scientist/Data Analyst, and Software Developer.
+- 💞️ I’m currently looking for jobs as Data Scientist, Data Analyst or Software Developer.
 
 If you are looking for someone who values inegrity, team work and lifelong learning, I am the right one! I love challenges, intrigued by mistakes, enjoy effort, and keep on learning. I bring GRIT to the table - the power passion and perseverance to convert data quantity into data quality!  
 
