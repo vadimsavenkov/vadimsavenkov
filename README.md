@@ -4,7 +4,7 @@
 
 - 👀 I’m interested building my career in predictive analytics. I have a wealth of skills in data analysis and reporting that require attention to details. 
 
-- 🌱 I keep stregthening my skills in Python every day through taking courses and building portfolio of my personal projects.
+- 🌱 I keep strengthening my skills in Python every day through taking courses and building portfolio of my personal projects.
 
 - 💞️ I’m currently looking for jobs as Data Scientist, Data Analyst or Software Developer.
 
