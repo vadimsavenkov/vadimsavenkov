@@ -4,7 +4,7 @@
 
 - 👀 I have extensive domain knowledge in upstream oil and gas industry with a wealth of skills in data analysis. 
 
-- 🌱 I keep strengthening my skills in Python every day through taking courses and building portfolio of my personal projects.
+- 🌱 I continuously improving my skills in Python through the building portfolio of my personal projects.
 
 - 💞️ I’m currently working as a reservoir engineer and utilizing my analytics skills to improve oil and gas field development.
 
