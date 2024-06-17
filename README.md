@@ -1,12 +1,12 @@
 - Hi 👋, 
 
-- My name is Vadim Savenkov and I am a data analytics enthisiast with ML certification from Alberta Machine Intelligence Institute (AMII) and Software Development certificate from  the Southern Alberta Institute of Technology (SAIT).
+- My name is Vadim Savenkov. I am a data analytics enthisiast and registered professional engineer of Alberta, Canada.
 
-- 👀 I have extensive domain knowledge in upstream oil and gas with a wealth of skills in data analysis and reporting that require attention to details. 
+- 👀 I have extensive domain knowledge in upstream oil and gas industry with a wealth of skills in data analysis. 
 
 - 🌱 I keep strengthening my skills in Python every day through taking courses and building portfolio of my personal projects.
 
-- 💞️ I’m currently working as a reservoir engineer specializing in oil and gas field analytics.
+- 💞️ I’m currently working as a reservoir engineer and utilizing my analytics skills to improve oil and gas field development.
 
 I value inegrity, team work and lifelong learning. I love challenges, intrigued by mistakes, enjoy effort, and keep on learning. I bring to the table the power of passion and perseverance to convert the data quantity into the data quality!  
 
