@@ -6,7 +6,7 @@
 
 - 🌱 I continuously improving my skills in Python through the building portfolio of my personal projects.
 
-- 💞️ I’m currently working as a reservoir engineer and utilizing my analytics skills to improve oil and gas field development.
+- 💞️ I’m currently working as a reservoir engineer and utilizing my analytics skills to improve oil and gas field development business analysis.
 
 I value inegrity, team work and lifelong learning. I love challenges, intrigued by mistakes, enjoy effort, and keep on learning. I bring to the table the power of passion and perseverance to convert the data quantity into the data quality!  
 
